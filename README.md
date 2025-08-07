@@ -1,0 +1,2 @@
+# Library-Management-System
+This project is a console-based Java application developed using Eclipse IDE. It simulates a basic library management system, allowing users to perform key operations such as issuing and returning books through an interactive Command-Line Interface (CLI). 
